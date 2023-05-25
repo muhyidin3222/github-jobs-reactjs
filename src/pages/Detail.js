@@ -16,7 +16,7 @@ export default function Detail() {
             const { data } = await axios.get(`/jobs/detail/${param.id}`)
             setdata(data?.data)
         } catch (error) {
-            console.log(error)
+            // console.log(error)
         } finally {
         }
     }

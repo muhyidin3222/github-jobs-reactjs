@@ -36,4 +36,24 @@
 
 .wp-jobs {
   margin-top: 40px;
+
+  .wp-bottom {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 40px;
+    margin-top: 20px;
+  }
+}
+
+button {
+  border-width: 0px;
+  cursor: pointer;
+  background-color: var(--primary-color);
+  color: #fff;
+  font-weight: 700;
+  padding: 0.5rem;
+  border-radius: 5px;
+  cursor: pointer;
+  padding: 8px 18px 8px 18px;
 }

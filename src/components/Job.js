@@ -13,11 +13,11 @@ const Job = (props) => {
     role,
     type,
   } = props.data;
-  
+
   const navigate = useNavigate()
-  
+
   let keywords = [role];
-  
+
   if (type) {
     keywords = [...keywords, type]
   }
@@ -64,7 +64,7 @@ const Job = (props) => {
 
       <div className="part2">
         {keywords.map((key, id) => (
-          <span onClick={() => props.setkeywords(key)} key={id}>
+          <span key={id}>
             {key}
           </span>
         ))}
