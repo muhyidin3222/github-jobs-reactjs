@@ -24,6 +24,6 @@ $ npm start
 
 
 ### Preview: 
-![Preview](https://github.com/muhyidin3222/github-jobs-reactjs/review1.png)
-![Preview](https://github.com/muhyidin3222/github-jobs-reactjs/review2.png)
-![Preview](https://github.com/muhyidin3222/github-jobs-reactjs/review3.png)
+![Preview](https://github.com/muhyidin3222/github-jobs-reactjs/blob/main/review1.png)
+![Preview](https://github.com/muhyidin3222/github-jobs-reactjs/blob/main/review2.png)
+![Preview](https://github.com/muhyidin3222/github-jobs-reactjs/blob/main/review3.png)
